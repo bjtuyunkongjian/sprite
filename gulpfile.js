@@ -24,5 +24,5 @@ gulp.task('default', function () {
 });
 
 // 复制
-fs.writeFileSync('./dist/sprite@2x.json', fs.readFileSync('./dist/sprite.json'));
-fs.writeFileSync('./dist/sprite@2x.png', fs.readFileSync('./dist/sprite.png'));
+// fs.writeFileSync('./dist/sprite@2x.json', fs.readFileSync('./dist/sprite.json'));
+// fs.writeFileSync('./dist/sprite@2x.png', fs.readFileSync('./dist/sprite.png'));
